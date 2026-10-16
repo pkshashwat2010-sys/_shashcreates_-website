@@ -1,6 +1,8 @@
 {
-  "name": "Bharat Digital Engine",
-  "description": "High-impact affordable websites & AI ads for Indian local businesses and retail stores.",
+  "name": "_shashcreates_",
+  "description": "Tailored Web Packages, High-Impact AI Advertisements & Social Media Creatives for Indian Local Businesses and Small Enterprises.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }

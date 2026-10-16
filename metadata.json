@@ -1,0 +1,6 @@
+{
+  "name": "Bharat Digital Engine",
+  "description": "High-impact affordable websites & AI ads for Indian local businesses and retail stores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
